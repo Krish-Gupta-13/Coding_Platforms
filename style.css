@@ -1,0 +1,49 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+
+#cardcontainer{
+  width: 15rem;
+  height: 10rem;
+}
+
+.card{
+  height: 5rem;
+  width: 10rem;
+}
+
+
+#box{
+    display: flex;
+    border-left: 4px solid black;
+    margin: 2px;
+  }
+
+#box:hover{
+  border-left: 8px solid black;
+}
+
+.imgg{
+  margin-left: 6px;
+  height: 2rem;
+  width: 2rem;
+}
+
+#title{
+  margin-left: 1rem;
+  margin-right: .3rem;
+}
+
+
+#box a{
+  text-decoration: none;
+  color: black;
+}
+#box{
+  margin: 6px;
+}
+
+.linkk{
+  margin-left: 1rem;
+}
